@@ -1,0 +1,29 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="text-container">
+    <view class="text">来，一起玩个游戏</view>
+    <view class="text">每个人只能在这儿留一次言</view>
+    <view class="text">可以说任何想说的话</view>
+  </view>
+  <view class="button-container">
+    <button
+      class="btn"
+      type="default"
+      size="default"
+      style="color: #666;"
+      hover-class="other-button-hover">
+        选择微信昵称署名留言
+    </button>
+    <button
+      class="btn"
+      type="default"
+      size="default"
+      style="color: #666;"
+      hover-class="other-button-hover">
+        选择自定义昵称署名留言
+    </button>
+  </view>
+  <view class="footer-text">
+    <text>灵感来自@roseonly</text>
+  </view>
+</view>

@@ -1,0 +1,2 @@
+# msgonly
+message only

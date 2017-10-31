@@ -1,0 +1,26 @@
+/**index.wxss**/
+.text-container{
+
+}
+.text{
+  color: #666;
+  margin: 20px;
+  text-align: center;
+}
+.button-container{
+  position: fixed;
+  bottom: 100px;
+  width: 100%;
+}
+.btn{
+  margin: 20px;
+  color: #666;
+  background: #FFF;
+}
+
+.footer-text{
+  font-size: 12px;
+  color: #999;
+  position: fixed;
+  bottom: 20px;
+}
